@@ -1,6 +1,6 @@
 {
   "name": "huasen",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -17,11 +17,11 @@
     "huasenjio"
   ],
   "author": "huasenjio",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "homepage": "http://n.huasen.cc/",
   "repository": {
-    "type": "gitee",
-    "url": "https://gitee.com/HuaSenJioJio/huasen-cli"
+    "type": "github",
+    "url": "https://github.com/huasenjio/huasen-cli"
   },
   "dependencies": {
     "commander": "^7.2.0",
